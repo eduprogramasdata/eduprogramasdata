@@ -1,15 +1,15 @@
 # 👋 Olá! Eu sou Eduardo Aragão
 
 ### 💡 Sobre mim
-- 🌍 **Localização**: Brasil 🇧🇷 | Objetivo: Trabalhar com Ciência de Dados
+- 🌍 **Localização**: Brasil 🇧🇷 | Objetivo: Trabalhar com Ciência de Dados      
+
+---
 - 🎓 **Habilidades**: 
   - SQL, Python, Power BI, Excel 
   - Modelagem de dados, criação de dashboards 
 - 🚀 **Objetivo atual**: Crescer como cientista de dados e impactar organizações com soluções baseadas em dados. 
 
 
-![BLOG_data-science](https://github.com/user-attachments/assets/8176656c-9147-41c7-a7c2-0cfbc3589a5b)
----
 
 ### ⚙️ Tecnologias e Ferramentas 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -37,6 +37,8 @@
 > *“Dados são o combustível do século XXI, e eu estou pronto para dirigir grandes mudanças com eles!”*
 
 ---
+![datascience-hero](https://github.com/user-attachments/assets/b5581340-d0d4-48e0-9770-6387cb9dd310)
+
 
 **🌱 Sempre em aprendizado e pronto para novos desafios!**
 
