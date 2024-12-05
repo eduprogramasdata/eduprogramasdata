@@ -7,6 +7,8 @@
   - Modelagem de dados, criação de dashboards 
 - 🚀 **Objetivo atual**: Crescer como cientista de dados e impactar organizações com soluções baseadas em dados. 
 
+
+![BLOG_data-science](https://github.com/user-attachments/assets/8176656c-9147-41c7-a7c2-0cfbc3589a5b)
 ---
 
 ### ⚙️ Tecnologias e Ferramentas 
