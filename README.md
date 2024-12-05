@@ -37,7 +37,6 @@
 > *“Dados são o combustível do século XXI, e eu estou pronto para dirigir grandes mudanças com eles!”*
 
 ---
-![datascience-hero](https://github.com/user-attachments/assets/b5581340-d0d4-48e0-9770-6387cb9dd310)
 
 
 **🌱 Sempre em aprendizado e pronto para novos desafios!**
