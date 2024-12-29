@@ -22,8 +22,7 @@
 ---
 
 ### 🌟 Projetos em Destaque 
-1. **[Dashboard de Despesas](https://github.com/seu-repositorio/dashboard-financeiro):** Uma análise interativa de dados financeiros na imigração para Winnipeg, Canadá usando Power BI. 
-2. **[Base de Dados SQL](https://github.com/seu-repositorio/base-sql):** Criação e otimização de uma base de dados para gerenciar orçamentos de produtos dermocosméticos entre Drogarias Concorrentes na cidade de Belo Horizonte - MG. 
+
 
 ---
 
