@@ -22,7 +22,7 @@
 ---
 
 ### 🌟 Projetos em Destaque 
-
+- Dashboard de Vendas de Cosméticos - Explorar e tratar dados de uma planilha do excel no SQL e Python, realizando um Dashboard interativo no Power BI.
 
 ---
 
