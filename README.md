@@ -28,7 +28,7 @@
 
 ### 🔗 Contato 
 - 📧 Email: [eduardo.aragao.chaves@gmail.com](mailto:eduardo.aragao.chaves@gmail.com) 
-- 💼 LinkedIn: [https://www.linkedin.com/in/eduardo-arag%C3%A3o-4a1461340/](https://www.linkedin.com/in/eduardo-arag%C3%A3o-4a1461340/) 
+- 💼 LinkedIn:https://www.linkedin.com/in/eduardoaragaoo
 
 ---
 
