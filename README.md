@@ -1,7 +1,7 @@
 # Analista de Dados Análista BI
 
 ### 💡 Sobre mim
-- 🌍 **Localização**: Brasil 🇧🇷 | Objetivo: Trabalhar com Ciência de Dados      
+- 🌍 **Localização**: Brasil 🇧🇷 | Objetivo: Trabalhar com Análise de Dados      
 
 ---
 - 🎓 **Habilidades**: 
