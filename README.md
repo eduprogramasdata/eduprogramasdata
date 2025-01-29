@@ -1,4 +1,4 @@
-# Sou cientista de Dados Análista BI
+# Analista de Dados Análista BI
 
 ### 💡 Sobre mim
 - 🌍 **Localização**: Brasil 🇧🇷 | Objetivo: Trabalhar com Ciência de Dados      
